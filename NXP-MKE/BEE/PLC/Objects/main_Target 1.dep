@@ -1,27 +1,0 @@
-Dependencies for Project 'main', Target 'Target 1': (DO NOT MODIFY !)
-CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
-F (.\main.c)(0x6970B8E2)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKE02Z64VLC4-I.\RTE\_Target_1-IC:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\bhanu\AppData\Local\Arm\Packs\NXP\MKE02Z4_DFP\2.3.0-D__UVISION_VERSION="534" -D_RTE_ -DCPU_MKE02Z64VLC4 -D_RTE_ --C99-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
-I (.\RTE\Device\MKE02Z64VLC4\MKE02Z4.h)(0x59F73A3E)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8EF44A)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E5FEA)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EF44A)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8329EA)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EF44A)
-I (.\RTE\Device\MKE02Z64VLC4\system_MKE02Z4.h)(0x59F73A3E)
-F (RTE\Device\MKE02Z64VLC4\MKE02Z4.h)(0x59F73A3E)()
-F (RTE\Device\MKE02Z64VLC4\MKE02Z4_features.h)(0x59F73A3E)()
-F (RTE\Device\MKE02Z64VLC4\MKE02Z64xxx4_flash.scf)(0x59F73A3E)()
-F (RTE\Device\MKE02Z64VLC4\MKE02Z64xxx4_ram.scf)(0x59F73A3E)()
-F (RTE\Device\MKE02Z64VLC4\fsl_device_registers.h)(0x59F73A3E)()
-F (RTE\Device\MKE02Z64VLC4\startup_MKE02Z4.s)(0x59F73A3E)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MKE02Z64VLC4-I.\RTE\_Target_1-IC:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\bhanu\AppData\Local\Arm\Packs\NXP\MKE02Z4_DFP\2.3.0--pd "__UVISION_VERSION SETA 534" --pd "_RTE_ SETA 1" --pd "CPU_MKE02Z64VLC4 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_mke02z4.lst --xref -o .\objects\startup_mke02z4.o --depend .\objects\startup_mke02z4.d)
-F (RTE\Device\MKE02Z64VLC4\system_MKE02Z4.c)(0x59F73A3E)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKE02Z64VLC4-I.\RTE\_Target_1-IC:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\bhanu\AppData\Local\Arm\Packs\NXP\MKE02Z4_DFP\2.3.0-D__UVISION_VERSION="534" -D_RTE_ -DCPU_MKE02Z64VLC4 -D_RTE_ --C99-o .\objects\system_mke02z4.o --omf_browse .\objects\system_mke02z4.crf --depend .\objects\system_mke02z4.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E5FEA)
-I (RTE\Device\MKE02Z64VLC4\fsl_device_registers.h)(0x59F73A3E)
-I (RTE\Device\MKE02Z64VLC4\MKE02Z4.h)(0x59F73A3E)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8EF44A)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EF44A)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8329EA)
-I (C:\Users\bhanu\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EF44A)
-I (RTE\Device\MKE02Z64VLC4\system_MKE02Z4.h)(0x59F73A3E)
-I (RTE\Device\MKE02Z64VLC4\MKE02Z4_features.h)(0x59F73A3E)
-F (RTE\Device\MKE02Z64VLC4\system_MKE02Z4.h)(0x59F73A3E)()

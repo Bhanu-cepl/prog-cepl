@@ -1,6 +1,0 @@
--MAKEUD="C:\Users\DELL\e2_studio\workspace\I2C\HardwareDebug\\I2C_c.ud" 
--form=stype 
--output="I2C.mot" 
--byte_count=10 
--nomessage 
--nologo

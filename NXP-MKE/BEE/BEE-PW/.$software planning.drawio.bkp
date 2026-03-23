@@ -1,0 +1,31 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="nUBY65AG8QYNwoZ7YyAB">
+    <mxGraphModel dx="786" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_8JcqjYsApY4JxPxCaFV-1" value="Overall cases&lt;div&gt;1.Factory setting&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;2.Factory password handling&lt;/div&gt;&lt;div&gt;3.Runtime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;4.pausetime&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;5.Setting&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;6.password2 Handling&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry y="10" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_8JcqjYsApY4JxPxCaFV-2" value="Case 1:&lt;div&gt;Factory setting&lt;/div&gt;&lt;div&gt;1.Mode navigation-7 modes&amp;nbsp;&lt;/div&gt;&lt;div&gt;2.mode selection&lt;/div&gt;&lt;div&gt;(with key1 and key2)&lt;/div&gt;&lt;div&gt;3.Either password creation/validation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="25" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_8JcqjYsApY4JxPxCaFV-3" value="case 2:&lt;div&gt;password setting and resetting&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_8JcqjYsApY4JxPxCaFV-6" value="case 3:&lt;div&gt;1.with pressure release&lt;/div&gt;&lt;div&gt;2.without pressure release&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_8JcqjYsApY4JxPxCaFV-7" value="case 4:&lt;div&gt;pause time commaon for all mode&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="30" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_8JcqjYsApY4JxPxCaFV-8" value="case 5:&lt;div&gt;setting cycle and pause same for all&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_8JcqjYsApY4JxPxCaFV-9" value="case 6:&lt;div&gt;password 2 only for PLC Mode&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="120" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,18 @@
+-asmopt=-MM
+-asmopt=-MP
+-cpu=S2
+-use_mda=not_use
+-c
+-dev="C:/Users/DELL/.eclipse/com.renesas.platform_1435879475/DebugComp/RL78/RL78/Common/DR5F121BC.DVF"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\r_bsp\board\generic_rl78_g16"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\general"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\r_config"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\r_bsp\mcu\rl78_g16\register_access\ccrl"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\r_pincfg"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\r_bsp"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\r_bsp\mcu\rl78_g16"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\r_bsp\mcu\all"
+-I "C:\Users\DELL\e2_studio\workspace\I2C\src\smc_gen\Config_IICA0"
+-character_set=utf8
+-g

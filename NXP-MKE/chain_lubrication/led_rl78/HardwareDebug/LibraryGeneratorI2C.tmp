@@ -1,0 +1,6 @@
+-MAKEUD_LBG="C:\Users\DELL\e2_studio\workspace\I2C\HardwareDebug\I2C_lbg.ud" 
+-cpu=S2 
+-use_mda=not_use 
+-output=I2C.lib 
+-nologo 
+-lang=c99

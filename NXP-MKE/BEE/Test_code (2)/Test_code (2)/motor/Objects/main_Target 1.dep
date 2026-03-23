@@ -1,0 +1,55 @@
+Dependencies for Project 'main', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.c)(0x698ABC5F)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKE02Z64xxx4-I.\RTE\_Target_1-IC:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include-D__UVISION_VERSION="534" -D_RTE_ -DMKE02Z64xxx4 -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include\MKE02Z4.h)(0x5959D682)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8EF44A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E5FEA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EF44A)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8329EA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EF44A)
+I (.\RTE\Device\MKE02Z64xxx4\system_MKE02Z4.h)(0x5959D682)
+I (oled.h)(0x693110A0)
+I (main.h)(0x69369554)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5E8E5FEA)
+I (flash.h)(0x688844C5)
+I (ke02_config.h)(0x68884580)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E5FEA)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5E8E5FEA)
+F (.\oled.c)(0x69493132)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKE02Z64xxx4-I.\RTE\_Target_1-IC:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include-D__UVISION_VERSION="534" -D_RTE_ -DMKE02Z64xxx4 -D_RTE_-o .\objects\oled.o --omf_browse .\objects\oled.crf --depend .\objects\oled.d)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include\MKE02Z4.h)(0x5959D682)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8EF44A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E5FEA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EF44A)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8329EA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EF44A)
+I (.\RTE\Device\MKE02Z64xxx4\system_MKE02Z4.h)(0x5959D682)
+I (oled.h)(0x693110A0)
+I (main.h)(0x69369554)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5E8E5FEA)
+F (.\oled.h)(0x693110A0)()
+F (.\flash.c)(0x68884496)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKE02Z64xxx4-I.\RTE\_Target_1-IC:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include-D__UVISION_VERSION="534" -D_RTE_ -DMKE02Z64xxx4 -D_RTE_-o .\objects\flash.o --omf_browse .\objects\flash.crf --depend .\objects\flash.d)
+I (flash.h)(0x688844C5)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include\MKE02Z4.h)(0x5959D682)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8EF44A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E5FEA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EF44A)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8329EA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EF44A)
+I (.\RTE\Device\MKE02Z64xxx4\system_MKE02Z4.h)(0x5959D682)
+I (ke02_config.h)(0x68884580)
+F (.\flash.h)(0x688844C5)()
+F (.\derivative.c)(0x68884531)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKE02Z64xxx4-I.\RTE\_Target_1-IC:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include-D__UVISION_VERSION="534" -D_RTE_ -DMKE02Z64xxx4 -D_RTE_-o .\objects\derivative.o --omf_browse .\objects\derivative.crf --depend .\objects\derivative.d)
+I (.\RTE\Device\MKE02Z64xxx4\system_MKE02Z4.h)(0x5959D682)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E5FEA)
+F (.\ke02_config.h)(0x68884580)()
+F (.\main.h)(0x69369554)()
+F (RTE\Device\MKE02Z64xxx4\startup_MKE02Z4.s)(0x5959D682)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MKE02Z64xxx4-I.\RTE\_Target_1-IC:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include--pd "__UVISION_VERSION SETA 534" --pd "_RTE_ SETA 1" --pd "MKE02Z64xxx4 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_mke02z4.lst --xref -o .\objects\startup_mke02z4.o --depend .\objects\startup_mke02z4.d)
+F (RTE\Device\MKE02Z64xxx4\system_MKE02Z4.c)(0x5959D682)(-c --cpu Cortex-M0+ -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\MKE02Z64xxx4-I.\RTE\_Target_1-IC:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include-D__UVISION_VERSION="534" -D_RTE_ -DMKE02Z64xxx4 -D_RTE_-o .\objects\system_mke02z4.o --omf_browse .\objects\system_mke02z4.crf --depend .\objects\system_mke02z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5E8E5FEA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\Keil\Kinetis_KExx_DFP\1.8.1\Device\Include\MKE02Z4.h)(0x5959D682)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8EF44A)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8EF44A)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8329EA)
+I (C:\Users\cepl_\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8EF44A)
+I (.\RTE\Device\MKE02Z64xxx4\system_MKE02Z4.h)(0x5959D682)
+F (RTE\Device\MKE02Z64xxx4\system_MKE02Z4.h)(0x5959D682)()
